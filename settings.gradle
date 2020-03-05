@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Tasca1_So'

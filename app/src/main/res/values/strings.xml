@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasca1_So</string>
+    <string name="soundpool">SoundPool</string>
+    <string name="volum">Volumen</string>
+    <string name="music1">Music1 \u25B6</string>
+    <string name="music2">Music2 \u25B6</string>
+    <string name="stop">Stop \u2B1B</string>
+
+</resources>
